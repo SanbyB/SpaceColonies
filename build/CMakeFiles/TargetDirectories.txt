@@ -1,0 +1,3 @@
+/home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles/SpaceColonyGame.dir
+/home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles/edit_cache.dir
+/home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles/rebuild_cache.dir
