@@ -81,12 +81,12 @@ clean: CMakeFiles/SpaceColonyGame.dir/clean
 CMakeFiles/SpaceColonyGame.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpaceColonyGame.dir/build.make CMakeFiles/SpaceColonyGame.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpaceColonyGame.dir/build.make CMakeFiles/SpaceColonyGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target SpaceColonyGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target SpaceColonyGame"
 .PHONY : CMakeFiles/SpaceColonyGame.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SpaceColonyGame.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SpaceColonyGame.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ben/Desktop/codingProjects/SpaceColonies/build/CMakeFiles 0
 .PHONY : CMakeFiles/SpaceColonyGame.dir/rule

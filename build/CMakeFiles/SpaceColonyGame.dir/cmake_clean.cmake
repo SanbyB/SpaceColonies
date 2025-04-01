@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SpaceColonyGame.dir/main.cpp.o.d"
   "CMakeFiles/SpaceColonyGame.dir/src/CelestialBody.cpp.o"
   "CMakeFiles/SpaceColonyGame.dir/src/CelestialBody.cpp.o.d"
+  "CMakeFiles/SpaceColonyGame.dir/src/Game.cpp.o"
+  "CMakeFiles/SpaceColonyGame.dir/src/Game.cpp.o.d"
   "CMakeFiles/SpaceColonyGame.dir/src/SpaceCraft.cpp.o"
   "CMakeFiles/SpaceColonyGame.dir/src/SpaceCraft.cpp.o.d"
   "CMakeFiles/SpaceColonyGame.dir/src/SpaceObject.cpp.o"

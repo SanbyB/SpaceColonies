@@ -1,5 +1,5 @@
-CMakeFiles/SpaceColonyGame.dir/main.cpp.o: \
- /home/ben/Desktop/codingProjects/SpaceColonies/main.cpp \
+CMakeFiles/SpaceColonyGame.dir/src/Game.cpp.o: \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/Game.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -143,8 +143,7 @@ CMakeFiles/SpaceColonyGame.dir/main.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
- /home/ben/Desktop/codingProjects/SpaceColonies/include/Game.h \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/SDL2/SDL_image.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_main.h \
  /usr/include/SDL2/SDL_stdinc.h /usr/include/SDL2/SDL_config.h \
  /usr/include/x86_64-linux-gnu/SDL2/_real_SDL_config.h \
@@ -268,7 +267,10 @@ CMakeFiles/SpaceColonyGame.dir/main.cpp.o: \
  /usr/include/SDL2/SDL_shape.h /usr/include/SDL2/SDL_system.h \
  /usr/include/SDL2/SDL_timer.h /usr/include/SDL2/SDL_version.h \
  /usr/include/SDL2/SDL_locale.h /usr/include/SDL2/SDL_misc.h \
- /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/Constants.h \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/Game.h \
+ /usr/include/SDL2/SDL.h /usr/include/c++/11/vector \
+ /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/memory \
@@ -289,7 +291,7 @@ CMakeFiles/SpaceColonyGame.dir/main.cpp.o: \
  /usr/include/c++/11/bits/atomic_base.h \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h \
- /home/ben/Desktop/codingProjects/SpaceColonies/include/SpaceCraft.h \
- /home/ben/Desktop/codingProjects/SpaceColonies/include/SpaceObject.h \
- /home/ben/Desktop/codingProjects/SpaceColonies/include/Utils.h \
- /home/ben/Desktop/codingProjects/SpaceColonies/include/CelestialBody.h
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/SpaceCraft.h \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/SpaceObject.h \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/Utils.h \
+ /home/ben/Desktop/codingProjects/SpaceColonies/src/../include/CelestialBody.h
