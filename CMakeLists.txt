@@ -33,6 +33,7 @@ main.cpp
 src/SpaceObject.cpp
 src/CelestialBody.cpp
 src/SpaceCraft.cpp
+src/Game.cpp
 include/Constants.h
 include/Utils.h
 )

@@ -20,9 +20,9 @@ public:
     
     virtual ~SpaceObject();
     
-    virtual void update(const std::vector<std::shared_ptr<CelestialBody>>& bodies, double dt) = 0;
+    virtual void update(const std::vector<std::shared_ptr<CelestialBody>>& bodies, double dt, bool RK4=true) = 0;
     
-    virtual void render(SDL_Renderer* renderer, Vector2D cameraOffset);
+    virtual void render(SDL_Renderer* renderer, Vector2D cameraOffset, double scale);
     
     void loadTexture(SDL_Renderer* renderer, const char* path);
 };

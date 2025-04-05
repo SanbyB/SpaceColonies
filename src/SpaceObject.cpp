@@ -14,12 +14,12 @@ SpaceObject::~SpaceObject(){
 };
 
 
-void SpaceObject::render(SDL_Renderer* renderer, Vector2D cameraOffset) {
+void SpaceObject::render(SDL_Renderer* renderer, Vector2D cameraOffset, double scale) {
     if (!texture) return;
     
     SDL_Rect destRect;
-    destRect.x = static_cast<int>((position.x * SCALE_FACTOR) + (SCREEN_WIDTH / 2) - (size / 2) + cameraOffset.x);
-    destRect.y = static_cast<int>((position.y * SCALE_FACTOR) + (SCREEN_HEIGHT / 2) - (size / 2) + cameraOffset.y);
+    destRect.x = static_cast<int>((position.x * scale) + (SCREEN_WIDTH / 2) - (size / 2) + cameraOffset.x);
+    destRect.y = static_cast<int>((position.y * scale) + (SCREEN_HEIGHT / 2) - (size / 2) + cameraOffset.y);
     destRect.w = size;
     destRect.h = size;
     
